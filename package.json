@@ -1,5 +1,5 @@
 {
-  "name": "webpack-starter",
+  "name": "To-Do-List2.0",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LuKa44x/webpack-starter.git"
+    "url": "git+https://github.com/LuKa44x/To-Do-List2.0.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LuKa44x/webpack-starter/issues"
+    "url": "https://github.com/LuKa44x/To-Do-List2.0/issues"
   },
-  "homepage": "https://github.com/LuKa44x/webpack-starter#readme",
+  "homepage": "https://github.com/LuKa44x/To-Do-List2.0#readme",
   "devDependencies": {
     "css-loader": "^7.1.2",
     "html-webpack-plugin": "^5.6.3",
